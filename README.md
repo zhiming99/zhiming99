@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zhiming99
+- 👋 Hi, I’m zhiming, and I am an software developer.
 - 💞️ I’m looking to collaborate on `rpc-frmwrk` project. It is an open source RPC software. If you are interested in this project, please contact me via the following email. :)
 - 📫 woodhead99@gmail.com
 

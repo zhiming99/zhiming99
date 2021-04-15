@@ -1,4 +1,4 @@
-- 👋 Hi, I’m zhiming, a software developer from Xi'an, China.
+- 👋 Hi, I’m zhiming, a software developer from Xi'an, China. And I am working on `rpc-frmwrk` project now.
 - 💞️ I’m looking to collaborate on `rpc-frmwrk` project. It is an open source RPC software for embedded Linux. If you are interested in contributing to this project, please contact me via the following email. :)
 - 📫 woodhead99@gmail.com
 

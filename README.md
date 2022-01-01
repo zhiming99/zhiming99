@@ -1,6 +1,6 @@
 - 👋 Hi, I’m zhiming, a software developer from Xi'an, China. And I am working on `rpc-frmwrk` project now.
-- 💞️ I’m looking to collaborate on `rpc-frmwrk` project. It is an open source RPC software for embedded Linux. If you are interested in contributing to this project, please contact me via the following email. :)
-- 📫 woodhead99@gmail.com
+- 💞️ Don't hesitate if you want to contribute to this project. It is an open source RPC software for embedded Linux. please contact me via the following email. :)
+- 📫 ![image](https://img.shields.io/badge/email-woodhead99%40gmail.com-informational)
 
 <!---
 zhiming99/zhiming99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
